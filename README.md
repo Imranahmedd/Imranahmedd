@@ -19,7 +19,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,figma" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,fastify,postgresql,git,github,vscode,postman,redis,kafka,socket.io,rabbitmq,cloudinary" alt="My Tech Stack" />
 </p>
 
 ---
@@ -69,12 +69,12 @@
         <br/>GitHub
       </a>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://x.com/imranahmedd" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
         <br/>X
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
