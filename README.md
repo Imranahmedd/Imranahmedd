@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, Muhammad Imran </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Front-End+Developer;Creative+Technologist;Learning+Backend+Development;I+Love+to+Code+%26+Create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0F9D58&width=500&lines=Backend+Developer;Node.js+(Fastify)+Enthusiast;Building+Scalable+APIs;Kafka+%7C+RabbitMQ+%7C+Redis;Passionate+About+System+Design" alt="Typing SVG" />
 </p>
+
 
 ---
 
