@@ -8,18 +8,18 @@
 
 ## 🧠 About Me  
 
-- 🎨 Front-End Developer passionate about bringing designs to life  
-- ⚛ Skilled with *React.js* and *Next.js*  
-- 🧪 Love experimenting with creative UI/UX and web animations  
-- 💻 *Languages I use:* JavaScript (Learning Backend with Node.js & APIs)  
-- 🚀 Always pushing creative limits in web development  
+- 🖥️ Backend Developer passionate about building scalable and efficient systems  
+- ⚡ Focusing on **Backend Development** with *Node.js (Fastify)*  
+- 🔗 Experienced in building projects with **REST APIs, Socket.io, Kafka, RabbitMQ, and Redis**  
+- 💻 Have strong foundations in software engineering with additional frontend knowledge (*React.js, Next.js*)  
+- 🚀 Always exploring and improving in backend technologies  
 
 ---
 
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,fastify,postgresql,git,github,vscode,postman,redis,kafka,socket.io,rabbitmq,cloudinary" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,fastify,postgresql,git,github,vscode,postman,redis,kafka,socket.io,rabbitmq,cloudinary,python,flask,docker" alt="My Tech Stack" />
 </p>
 
 ---
