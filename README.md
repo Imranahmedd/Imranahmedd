@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, Muhammad Imran </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0F9D58&width=500&lines=Backend+Developer;Node.js+(Fastify)+Enthusiast;Building+Scalable+APIs;Kafka+%7C+RabbitMQ+%7C+Redis;Passionate+About+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=0F9D58&width=500&lines=Backend+Developer;Node.js+(Fastify);Building+Scalable+RestAPIs;Kafka+%7C+RabbitMQ+%7C+Redis+%7C+Socket;Passionate+About+System+Design" alt="Typing SVG" />
 </p>
 
 
@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,fastify,postgresql,git,github,vscode,postman,redis,kafka,socket.io,rabbitmq,cloudinary,python,flask,docker" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,postgresql,git,github,vscode,postman,redis,kafka,socket.io,rabbitmq,python,flask,docker" alt="My Tech Stack" />
 </p>
 
 ---
@@ -40,18 +40,28 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranahmedd&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=imranahmedd&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
----
-
-## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imranahmedd&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranahmedd&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
----
+
+<!--
+## ​ GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imranahmedd&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+</p> -->
+
+
+
+
 
 ## 📫 Connect with Me  
 
@@ -70,12 +80,18 @@
         <br/>GitHub
       </a>
     </td>
-<!--     <td align="center">
-      <a href="https://x.com/imranahmedd" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
-        <br/>X
+    <td align="center">
+      <a href="mailto:syedimranahmed553@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+        <br/>Email
       </a>
-    </td> -->
+    </td>
+    <td align="center">
+  <a href="https://wa.me/923491948553" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" />
+    <br/>WhatsApp
+  </a>
+</td>
   </tr>
 </table>
 
