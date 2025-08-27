@@ -27,7 +27,7 @@
 ## 🐍 GitHub Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murtazaalipk&theme=react-dark&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranahmedd&theme=react-dark&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -35,11 +35,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtazaalipk&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imranahmedd&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtazaalipk&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranahmedd&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murtazaalipk&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imranahmedd&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -58,19 +58,19 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/murtaza54" target="_blank">
+      <a href="https://www.linkedin.com/in/imran-ahmedd" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
         <br/>LinkedIn
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/murtazaalipk" target="_blank">
+      <a href="https://github.com/imranahmedd" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
         <br/>GitHub
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/murtazaaliipk" target="_blank">
+      <a href="https://x.com/imranahmedd" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
         <br/>X
       </a>
@@ -83,7 +83,7 @@
 ## 👁‍🗨 Visitor Counter  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murtazaalipk&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=imranahmedd&style=for-the-badge&color=blue" />
 </p>
 
 ---
